@@ -4,7 +4,8 @@ This project analyzes iPhone sales data using Python, aiming to uncover insights
 This project focuses on analyzing iPhone sales data using Python. The objective is to derive valuable insights from the dataset, such as trends in sales, popular iPhone models, and customer preferences.
 
 ## Dataset Information
-The iPhone sales data utilized in this analysis is obtained from [provide source]. The dataset is available in CSV format and comprises essential columns like Date, Sales, Customer, etc. This information is crucial for understanding and interpreting the subsequent analysis.
+The iPhone sales data utilized in this analysis is obtained from Kaggle. The dataset is available in CSV format and comprises essential columns like Date, Sales, Customer, etc. This information is crucial for understanding and interpreting the subsequent analysis.
+ - **Source:** [Apple Iphone Dataset on Kaggle](https://www.kaggle.com/datasets/komalkhetlani/apple-iphone-data)
 
 ## Dependencies
 To execute the analysis, the following dependencies need to be installed:
