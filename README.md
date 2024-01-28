@@ -11,8 +11,7 @@ The iPhone sales data utilized in this analysis is obtained from Kaggle. The dat
 To execute the analysis, the following dependencies need to be installed:
 - Python 3.x
 - Pandas
-- Matplotlib
-- Seaborn
+- Numpy
 
 ## Types of Chart Used
 Various types of charts are employed in this analysis to visually represent different aspects of the data. The primary chart types include:
